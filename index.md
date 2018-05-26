@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Adam Wolff's Blog
+title: Home
 ---
-
-# {{ page.title }}
 
 <ul class="posts">
     {% for post in site.posts %}
