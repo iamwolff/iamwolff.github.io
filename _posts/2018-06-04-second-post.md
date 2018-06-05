@@ -4,3 +4,5 @@ title: Second Post
 ---
 
 Testing some layout options
+
+[Back Home](/)
